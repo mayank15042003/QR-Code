@@ -1,0 +1,33 @@
+body {
+  background-color: #d5E1EF;
+  min-height: 100vh;
+  font-family: cursive;
+   text-align: center;
+}
+.card {
+    /* BOX CENTER ELEMENT-3 */
+  margin: auto;
+  inset: 0;
+  position: absolute;  
+  padding: 1rem;
+  padding-bottom: 3rem;
+  height: 470px;
+  width: 100%;
+  max-width: 302px;
+  border-radius: 16PX;
+  background-color: white;
+  box-shadow: 0px 10px 20px 0px rgb(0 0 0 / 50%);
+}
+
+img{
+    width: 100%;
+    border-radius: 8PX;
+}
+
+h2{
+    color: #252D47;
+    color: hsla(217, 45%, 22%, 0.836);
+}
+p{
+    color: hsl(220, 15%, 55%);
+}
